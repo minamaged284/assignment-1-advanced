@@ -48,9 +48,6 @@
             }
 
 
-            Range<int> range = new Range<int>(10,20);
-            Console.WriteLine(range.IsInRange(50));
-            Console.WriteLine(range.Length());
 
 
 
